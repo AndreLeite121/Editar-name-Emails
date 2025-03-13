@@ -2,20 +2,6 @@ Renomeador de Arquivos .eml
 
 Este script percorre todas as pastas dentro de um diretório principal e renomeia arquivos .eml com base no assunto (subject) encontrado no corpo do e-mail.
 
-Requisitos
-
-Python 3.6+
-
-Instalação
-
-Clone este repositório:
-
-git clone https://github.com/seuusuario/seurepositorio.git
-
-Acesse o diretório do projeto:
-
-cd seurepositorio
-
 Uso
 
 Edite o caminho da variável pastaPrincipal no código para apontar para o diretório onde estão os arquivos .eml.
