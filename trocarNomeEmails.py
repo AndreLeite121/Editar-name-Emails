@@ -3,7 +3,7 @@ import email
 from email import policy
 import re
 
-pastaPrincipal = '/Users/andreleite/Downloads/Aline Emails'
+pastaPrincipal = ''
 
 def limpar_nome_arquivo(nome):
     return re.sub(r'[\/:;*?"<>|]', '_', nome)
